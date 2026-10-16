@@ -1,6 +1,3 @@
-# AI-Groundwater-Aquifer-Mapping-Bangladesh
-Building AI course project
-
 # AI-Powered Multi-Layer Groundwater and Aquifer Mapping in Bangladesh
 
 ## Summary
