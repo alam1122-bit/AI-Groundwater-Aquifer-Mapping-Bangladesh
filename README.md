@@ -1,5 +1,4 @@
-# Project Title:
-## AI-Powered Multi-Layer Groundwater and Aquifer Mapping in Bangladesh
+# Project Title: AI-Powered Multi-Layer Groundwater and Aquifer Mapping in Bangladesh
 
 ## Summary
 This project proposes an AI-based system to estimate possible groundwater aquifer depths at selected locations in Bangladesh. The goal is to explore how geological, hydrogeological, and geographical data can help identify potential groundwater-bearing layers and support better-informed drilling decisions.
